@@ -1,3 +1,11 @@
+# README for Project Energy
+
+Analysis of UK Energy Use
+
+Part of my personal "Ignorance reduction" series. This series is about understanding the issues that are so commonly spoken about in the media, but rarely I take the effort to look through the raw data. Ideally, if the media or politicians say something is "really bad" I want to know, how bad in reality, are the underselling it or is the issue less priority than other issues and theyre using it as a stunt for publicity.
+
+Goal: to understand the extent of energy use in the uk. How much of the national grid is from renewable sources, how is this changing, and how far is there to go?
+
 # README for Base Python Docker  
 
 Builds ubuntu docker container, installing pip requirements for python and running jupyter notebook in your local browser.
